@@ -12,6 +12,7 @@ This is a project forked from karpathy/micrograd. The structure is:
 
 4. Observability: Drawdot() for visualization, implemented in the trace_graph.ipynb.
 
+There is an exercise for this project: https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing.
 
 ### License
 
